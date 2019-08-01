@@ -7,12 +7,27 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+We are creating an EventBrite for concerts. The User will be able search for concerts and pay for tickets. Bands will be able
+to post events and promote themselves. Users will be able to see the layouts of the venue and have additional data to make
+their concert-going experience easier.
 ### Features
-Include Features here
+User Login
+Geolocation
+Payment system
+Search system
+Post an event
+Calendar creation
 ### Technologies
-Include Technologies here
+Java
+Javascript
+Sql
+API's
+HTML/CSS
+Bootstrap
 ### What I'll Have to Learn
-Include what you will need to learn here
+Javascript
+How to integrate API's
+How to search by location
+Any location tracking 
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/stephen57397006
